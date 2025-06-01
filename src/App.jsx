@@ -46,7 +46,7 @@ function App() {
     title: '',
     timeline: '',
     start: '',
-    end:
+      end: '',
         notes: '','',
   });
 
